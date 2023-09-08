@@ -845,7 +845,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/tutorial-map\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -868,7 +868,7 @@
         {
          "columns":12,
          "firstgid":13,
-         "image":"..\/tutorial-map\/tilesets\/WA_Decoration.png",
+         "image":"tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -881,7 +881,7 @@
         {
          "columns":10,
          "firstgid":109,
-         "image":"..\/tutorial-map\/tilesets\/WA_Miscellaneous.png",
+         "image":"tilesets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -894,7 +894,7 @@
         {
          "columns":12,
          "firstgid":219,
-         "image":"..\/tutorial-map\/tilesets\/WA_Other_Furniture.png",
+         "image":"tilesets\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -907,7 +907,7 @@
         {
          "columns":25,
          "firstgid":375,
-         "image":"..\/tutorial-map\/tilesets\/WA_Room_Builder.png",
+         "image":"tilesets\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -920,7 +920,7 @@
         {
          "columns":13,
          "firstgid":1375,
-         "image":"..\/tutorial-map\/tilesets\/WA_Seats.png",
+         "image":"tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -933,7 +933,7 @@
         {
          "columns":10,
          "firstgid":1557,
-         "image":"..\/tutorial-map\/tilesets\/WA_Tables.png",
+         "image":"tilesets\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -946,7 +946,7 @@
         {
          "columns":25,
          "firstgid":1827,
-         "image":"..\/tutorial-map\/tilesets\/WA_Exterior.png",
+         "image":"tilesets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -959,7 +959,7 @@
         {
          "columns":13,
          "firstgid":2677,
-         "image":"..\/tutorial-map\/tilesets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -972,7 +972,7 @@
         {
          "columns":10,
          "firstgid":2950,
-         "image":"..\/tutorial-map\/tilesets\/NPCs scaled.png",
+         "image":"tilesets\/NPCs scaled.png",
          "imageheight":256,
          "imagewidth":320,
          "margin":0,
@@ -985,7 +985,7 @@
         {
          "columns":34,
          "firstgid":3030,
-         "image":"..\/tutorial-map\/tilesets\/Primary School.jpg",
+         "image":"tilesets\/Primary School.jpg",
          "imageheight":736,
          "imagewidth":1088,
          "margin":0,
@@ -998,7 +998,7 @@
         {
          "columns":19,
          "firstgid":3812,
-         "image":"..\/tutorial-map\/tilesets\/Ground tiles.png",
+         "image":"tilesets\/Ground tiles.png",
          "imageheight":480,
          "imagewidth":608,
          "margin":0,

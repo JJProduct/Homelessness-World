@@ -552,7 +552,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Office.tmj#from-tutorial"
+                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/jalan\/office#from-tutorial"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1031,7 +1031,7 @@
          "y":0
         }],
  "nextlayerid":75,
- "nextobjectid":55,
+ "nextobjectid":56,
  "orientation":"orthogonal",
  "properties":[
         {
