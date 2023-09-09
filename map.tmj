@@ -715,7 +715,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/k20-educators-1682692545\/jalan\/office#from-tutorial"
+                         "value":"Office.tmj#from-tutorial"
                         }],
                  "rotation":0,
                  "visible":true,
