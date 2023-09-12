@@ -715,7 +715,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Office.tmj#from-tutorial"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/office#from-tutorial"
                         }],
                  "rotation":0,
                  "visible":true,

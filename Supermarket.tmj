@@ -2070,7 +2070,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Basketball_court.tmj#from-Supermarket"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/basketball-court#from-Supermarket"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -2175,7 +2175,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Primary_school.tmj#from-Supermarket"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/primary-school#from-Supermarket"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -2549,7 +2549,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 

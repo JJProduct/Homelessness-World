@@ -501,7 +501,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Basketball_court.tmj#from-School"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/basketball-court#from-School"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -658,7 +658,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Supermarket.tmj#from-School"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/supermarket#from-School"
                         }],
                  "rotation":0,
                  "visible":true,
