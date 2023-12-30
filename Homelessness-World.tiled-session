@@ -1,0 +1,574 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Basketball-Court-1.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.8114583333333333,
+            "selectedLayer": 23,
+            "viewCenter": {
+                "x": 591.5275994865212,
+                "y": 482.4646983311939
+            }
+        },
+        "Basketball-Court-1.tmj#Basketball court": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#Basketball court_FG": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#Game room_furn": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#Sports elements": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-1.tmj#tmw_desert_spacing": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.9233836206896551,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 543.6527015987864,
+                "y": 142.41101645466216
+            }
+        },
+        "Basketball-Court-2.tmj#Basketball court": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#Basketball court_FG": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#Game room_furn": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#Sports elements": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Basketball-Court-2.tmj#tmw_desert_spacing": {
+            "scaleInDock": 1
+        },
+        "Block-4-1.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.7084252450980392,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 830.0099468062103,
+                "y": 1038.2182242788567
+            }
+        },
+        "Block-4-1.tmj#Block4 (tall)_3": {
+            "scaleInDock": 1
+        },
+        "Block-4-1.tmj#Block4 door": {
+            "scaleInDock": 1
+        },
+        "Block-4-1.tmj#Block4_FG": {
+            "scaleInDock": 1
+        },
+        "Block-4-1.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Block-4-1.tmj#NPCs scaled": {
+            "scaleInDock": 1
+        },
+        "Block-4-1.tmj#Sports elements": {
+            "scaleInDock": 1
+        },
+        "Block-4-1.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.7084252450980392,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 830.0099468062103,
+                "y": 1039.629805821044
+            }
+        },
+        "Block-4-2.tmj#Block4 (tall)_3": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#Block4 door": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#Block4_FG": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#NPCs scaled": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#Sports elements": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Block-4-2.tmj#tmw_desert_spacing": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.7237331081081081,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 670.136538685961,
+                "y": 1038.3662037577312
+            }
+        },
+        "Flat-1.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#NPCs scaled": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#Room_furniture": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#apartment": {
+            "scaleInDock": 1
+        },
+        "Flat-1.tmj#apartment_FG": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.7237331081081081,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 670.136538685961,
+                "y": 1038.3662037577312
+            }
+        },
+        "Flat-2.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#NPCs scaled": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#Room_furniture": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#apartment": {
+            "scaleInDock": 1
+        },
+        "Flat-2.tmj#apartment_FG": {
+            "scaleInDock": 1
+        },
+        "Job.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.9233836206896551,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 559.8973042362003,
+                "y": 784.614307387093
+            }
+        },
+        "Job.tmj#Game room_furn": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#Job": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#Job_FG": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#NPCs scaled": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Job.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Office.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.7237331081081081,
+            "selectedLayer": 18,
+            "viewCenter": {
+                "x": 447.6788423386626,
+                "y": 1039.747928579764
+            }
+        },
+        "Office.tmj#Game room_furn": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#NPCs scaled": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#Office": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#Office scaled": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#Office_FG": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Office.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.9764780405405405,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 1072.2207326039008,
+                "y": 652.8564632616875
+            }
+        },
+        "Primary-School.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#NPCs scaled": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#Primary School": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Primary-School.tmj#elements": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj": {
+            "scale": 0.47818080357142856,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 192.3958454895553,
+                "y": 270.81806511845025
+            }
+        },
+        "Supermarket.tmj#Ground tiles": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#NPCs scaled": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#elements": {
+            "scaleInDock": 1
+        },
+        "Supermarket.tmj#supermarket": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj": {
+            "scale": 0.6451729910714286,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 897.4337239977511,
+                "y": 608.3639666133288
+            }
+        },
+        "Tutorial.tmj#NPCs scaled": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#Room_furniture": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#Tutorial": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#Tutorial doors": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "Tutorial.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "Homelessness-World.tiled-project",
+    "recentFiles": [
+    ]
+}
