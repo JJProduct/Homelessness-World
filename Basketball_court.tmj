@@ -1557,7 +1557,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Basketball court"
+         "value":"BasketballCourt_1"
         }, 
         {
          "name":"script",

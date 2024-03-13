@@ -724,7 +724,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Flat"
+         "value":"Flat_1"
         }, 
         {
          "name":"script",

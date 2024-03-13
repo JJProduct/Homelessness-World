@@ -831,7 +831,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Primary school"
+         "value":"Primary School"
         }, 
         {
          "name":"script",
