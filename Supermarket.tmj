@@ -884,7 +884,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":319,
+                 "height":203,
                  "id":27,
                  "name":"Picture 40",
                  "properties":[
@@ -908,10 +908,10 @@
                  "visible":true,
                  "width":412,
                  "x":2.3333333333369,
-                 "y":1472.66666666667
+                 "y":1588.66666666667
                 }, 
                 {
-                 "height":163,
+                 "height":122,
                  "id":55,
                  "name":"Picture 31",
                  "properties":[
@@ -935,7 +935,7 @@
                  "visible":true,
                  "width":214,
                  "x":480,
-                 "y":1440
+                 "y":1481
                 }, 
                 {
                  "height":163,
@@ -1532,7 +1532,7 @@
                  "y":1098
                 }, 
                 {
-                 "height":152,
+                 "height":121,
                  "id":78,
                  "name":"Picture 26",
                  "properties":[
@@ -1556,7 +1556,7 @@
                  "visible":true,
                  "width":212,
                  "x":1577,
-                 "y":1099
+                 "y":1130
                 }, 
                 {
                  "height":148,
@@ -1721,7 +1721,7 @@
                  "y":655.5
                 }, 
                 {
-                 "height":224,
+                 "height":171,
                  "id":85,
                  "name":"Picture 32",
                  "properties":[
@@ -1964,7 +1964,7 @@
                  "y":896.5
                 }, 
                 {
-                 "height":249,
+                 "height":190,
                  "id":94,
                  "name":"Picture 37",
                  "properties":[
@@ -1988,7 +1988,7 @@
                  "visible":true,
                  "width":272,
                  "x":481.125,
-                 "y":1158.5
+                 "y":1217.5
                 }, 
                 {
                  "height":249,
@@ -2169,12 +2169,12 @@
                 {
                  "height":60,
                  "id":107,
-                 "name":"to-School",
+                 "name":"to-BBCourt",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":".\/primary-school#from-Supermarket"
+                         "value":".\/job-interview#from-BB-court"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2324,7 +2324,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/activities.jalanjourney.com\/Supermarket\/?version=modular"
+                         "value":"https:\/\/2ly.link\/1ylZr"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -2356,7 +2356,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/activities.jalanjourney.com\/Supermarket\/?version=modular"
+                         "value":"https:\/\/2ly.link\/1ylZr"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -2388,7 +2388,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/activities.jalanjourney.com\/Supermarket\/?version=modular"
+                         "value":"https:\/\/2ly.link\/1ylZr"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -2420,7 +2420,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/activities.jalanjourney.com\/Supermarket\/?version=modular"
+                         "value":"https:\/\/2ly.link\/1ylZr"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -2435,8 +2435,8 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":259,
-                 "x":1472,
+                 "width":200,
+                 "x":1531,
                  "y":161
                 }, 
                 {
@@ -2452,7 +2452,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/activities.jalanjourney.com\/Supermarket\/?version=modular"
+                         "value":"https:\/\/2ly.link\/1ylZr"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -2546,6 +2546,168 @@
                  "width":0,
                  "x":687.333333333333,
                  "y":57.3333333333334
+                }, 
+                {
+                 "height":56,
+                 "id":174,
+                 "name":"card",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Cards\/2.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":104.833,
+                 "x":539.25,
+                 "y":1416.9985
+                }, 
+                {
+                 "height":73.3333,
+                 "id":175,
+                 "name":"card",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Cards\/3.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":82.833,
+                 "x":1440.58,
+                 "y":305.0015
+                }, 
+                {
+                 "height":56,
+                 "id":176,
+                 "name":"card",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Cards\/4.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":104.833,
+                 "x":647.25,
+                 "y":1156.3385
+                }, 
+                {
+                 "height":42.5,
+                 "id":177,
+                 "name":"card",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Cards\/6.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":104.833,
+                 "x":1565.25,
+                 "y":1081.1685
+                }, 
+                {
+                 "height":56,
+                 "id":178,
+                 "name":"card",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Cards\/8.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":104.833,
+                 "x":185.917,
+                 "y":1522.9985
+                }, 
+                {
+                 "height":56,
+                 "id":179,
+                 "name":"card",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Cards\/9.png"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to get information"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":104.833,
+                 "x":570.583,
+                 "y":595.0015
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2631,7 +2793,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":132,
+ "nextobjectid":180,
  "orientation":"orthogonal",
  "properties":[
         {
