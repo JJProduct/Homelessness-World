@@ -154,7 +154,7 @@
                 {
                  "name":"code",
                  "type":"string",
-                 "value":"123"
+                 "value":"901"
                 }, 
                 {
                  "name":"doorVariable",
@@ -1470,7 +1470,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
